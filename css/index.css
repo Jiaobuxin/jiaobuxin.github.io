@@ -2242,7 +2242,7 @@ blockquote footer cite:before {
 }
 #nav.full_page #site-info {
   position: absolute;
-  top: 43%;
+  top: -100px;
   padding: 0 0.5rem;
   width: 100%;
 }
