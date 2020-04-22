@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jiaobuxin.github.io/"/>
-  <updated>2020-04-18T08:58:24.953Z</updated>
+  <updated>2020-04-22T17:07:21.881Z</updated>
   <id>http://jiaobuxin.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我历经磨难的博客。</title>
+    <link href="http://jiaobuxin.github.io/2020/04/23/20200423/"/>
+    <id>http://jiaobuxin.github.io/2020/04/23/20200423/</id>
+    <published>2020-04-22T16:01:09.000Z</published>
+    <updated>2020-04-22T17:07:21.881Z</updated>
+    
+    <content type="html"><![CDATA[<p>经过几经周折，终于是弄起来一个自己看来还不错的博客，一开始是想弄一个好看一点的网页，现在弄成这样感觉已经头皮发麻了，后面再慢慢优化和改进这个东西叭，嘤嘤嘤。o(TヘTo)。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;经过几经周折，终于是弄起来一个自己看来还不错的博客，一开始是想弄一个好看一点的网页，现在弄成这样感觉已经头皮发麻了，后面再慢慢优化和改进这个东西叭，嘤嘤嘤。o(TヘTo)。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
